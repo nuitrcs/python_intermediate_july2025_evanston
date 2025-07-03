@@ -1,4 +1,4 @@
-# Python Intermediate June 2025
+# Python Intermediate July 2025
 
 This is repository for python intermediate workshops
 
