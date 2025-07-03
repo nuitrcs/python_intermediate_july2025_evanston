@@ -1,0 +1,20 @@
+Traits of a chicken are: chicken, feathers, eggs, airbourne, backbone, breathes, tail, domestic.
+Traits of a crow are: crow, feathers, eggs, airbourne, predator, backbone, breathes, tail.
+Traits of a dove are: dove, feathers, eggs, airbourne, backbone, breathes, tail, domestic.
+Traits of a duck are: duck, feathers, eggs, airbourne, aquatic, backbone, breathes, tail.
+Traits of a flamingo are: flamingo, feathers, eggs, airbourne, backbone, breathes, tail, catsize.
+Traits of a gull are: gull, feathers, eggs, airbourne, aquatic, predator, backbone, breathes, tail.
+Traits of a hawk are: hawk, feathers, eggs, airbourne, predator, backbone, breathes, tail.
+Traits of a kiwi are: kiwi, feathers, eggs, predator, backbone, breathes, tail.
+Traits of a lark are: lark, feathers, eggs, airbourne, backbone, breathes, tail.
+Traits of a ostrich are: ostrich, feathers, eggs, backbone, breathes, tail, catsize.
+Traits of a parakeet are: parakeet, feathers, eggs, airbourne, backbone, breathes, tail, domestic.
+Traits of a penguin are: penguin, feathers, eggs, aquatic, predator, backbone, breathes, tail, catsize.
+Traits of a pheasant are: pheasant, feathers, eggs, airbourne, backbone, breathes, tail.
+Traits of a rhea are: rhea, feathers, eggs, predator, backbone, breathes, tail, catsize.
+Traits of a skimmer are: skimmer, feathers, eggs, airbourne, aquatic, predator, backbone, breathes, tail.
+Traits of a skua are: skua, feathers, eggs, airbourne, aquatic, predator, backbone, breathes, tail.
+Traits of a sparrow are: sparrow, feathers, eggs, airbourne, backbone, breathes, tail.
+Traits of a swan are: swan, feathers, eggs, airbourne, aquatic, backbone, breathes, tail, catsize.
+Traits of a vulture are: vulture, feathers, eggs, airbourne, predator, backbone, breathes, tail, catsize.
+Traits of a wren are: wren, feathers, eggs, airbourne, backbone, breathes, tail.
