@@ -21,9 +21,9 @@ Topics: Pandas, Troubleshooting Code
 
 **Googla Colab Links**
 
-[Pandas Part 1](https://colab.research.google.com/github/nuitrcs/python_intermediate_july2025_evanston/blob/main/Day%201/pandas%20part%201.ipynb)
+[Pandas Part 1](https://colab.research.google.com/github/nuitrcs/python_intermediate_july2025_evanston/blob/main/Day%201/pandas/pandas%20part%201.ipynb)
 
-[Pandas Part 2](https://colab.research.google.com/github/nuitrcs/python_intermediate_july2025_evanston/blob/main/Day%201/pandas%20part%202.ipynb)
+[Pandas Part 2](https://colab.research.google.com/github/nuitrcs/python_intermediate_july2025_evanston/blob/main/Day%201/pandas/pandas%20part%202.ipynb)
 
 [Troubleshooting Code Debug Exercise 1](https://colab.research.google.com/github/nuitrcs/python_intermediate_july2025_evanston/blob/main/Day%201/troubleshooting/toDebug1.ipynb)
 
@@ -37,7 +37,7 @@ Topics: Matplotlib (+ fstrings if time), Scripting
 
 **Googla Colab Links**
 
-[Matplotlib](https://colab.research.google.com/github/nuitrcs/python_intermediate_july2025_evanston/blob/main/Day%202/matplotlib.ipynb)
+[Matplotlib](https://colab.research.google.com/github/nuitrcs/python_intermediate_july2025_evanston/blob/main/Day%202/matplotlib/matplotlib.ipynb)
 
 [Scripts](https://colab.research.google.com/github/nuitrcs/python_intermediate_july2025_evanston/blob/main/Day%202/scripts/scripts_workshop.ipynb)
 
