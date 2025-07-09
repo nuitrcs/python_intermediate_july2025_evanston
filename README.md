@@ -47,6 +47,14 @@ Topics: Matplotlib (+ fstrings if time), Scripting
 
 Topics: Environments, fstrings, List Comprehension, Object Classes
 
+[fstrings](https://colab.research.google.com/github/nuitrcs/python_intermediate_july2025_evanston/blob/main/Day%203/fstrings/fstrings.ipynb)
+
+[List Comprehension](https://colab.research.google.com/github/nuitrcs/python_intermediate_july2025_evanston/blob/main/Day%203/list_comprehensions/list.ipynb)
+
+[Pathlib](https://colab.research.google.com/github/nuitrcs/python_intermediate_july2025_evanston/blob/main/Day%203/pathlib/filepaths.ipynb)
+
+[Object Oriented Programming](https://colab.research.google.com/github/nuitrcs/python_intermediate_july2025_evanston/blob/main/Day%203/OOP/day4Lecture_OOP.ipynb)
+
 **Googla Colab Links**
 
 -----
