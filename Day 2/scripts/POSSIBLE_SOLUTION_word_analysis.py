@@ -35,13 +35,7 @@ def findLongestWord(words):
     This returns the longest word from a list of input words.
     the argument words is expected to be a list of strings
     '''
-    i_max = 0
-    max_len = 0
-    for i, word in enumerate(words):
-      if (len(word) > max_len):
-        i_max = i 
-        max_len = len(word)
-    longest = words[i_max]
+    longest = max(words, key=len)
     return longest
 
 def countVowelWords(words):
@@ -49,20 +43,23 @@ def countVowelWords(words):
     This returns the number of words from a list of input words that begin with a vowel.
     the argument words is expected to be a list of strings
     '''
-    vowels = set('aeiou')
-    lower_words = [word.lower() for word in words]
-    starts_with_vowel = sum(1 for word in lower_words if word[0] in vowels)
-    return starts_with_vowel
+    vowels = 'aeiou'
+    n_starts_with_vowel = 0
+    for word in words:
+        if (word[0].lower() in vowels):
+            n_starts_with_vowel += 1
+    return n_starts_with_vowel
 
 def makeUpperCase(words):    
     '''
     This returns the list of input words in upper case.
     the argument words is expected to be a list of strings
     '''
-    uppercase_words = [word.upper() for word in words]
+    uppercase_words = []
+    for word in words:
+        uppercase_words.append(word.upper())
     return uppercase_words
-
-
+    
 if __name__ == "__main__":
 
     # define the argument parser
