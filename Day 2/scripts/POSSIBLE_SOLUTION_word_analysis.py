@@ -35,7 +35,13 @@ def findLongestWord(words):
     This returns the longest word from a list of input words.
     the argument words is expected to be a list of strings
     '''
-    longest = max(words)
+    i_max = 0
+    max_len = 0
+    for i, word in enumerate(words):
+      if (len(word) > max_len):
+        i_max = i 
+        max_len = len(word)
+    longest = words[i_max]
     return longest
 
 def countVowelWords(words):
