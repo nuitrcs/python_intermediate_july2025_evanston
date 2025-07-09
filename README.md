@@ -19,7 +19,7 @@ There are two ways to work through the materials.
 
 Topics: Pandas, Troubleshooting Code
 
-**Googla Colab Links**
+**Google Colab Links**
 
 [Pandas Part 1](https://colab.research.google.com/github/nuitrcs/python_intermediate_july2025_evanston/blob/main/Day%201/pandas/pandas%20part%201.ipynb)
 
@@ -35,7 +35,7 @@ Topics: Pandas, Troubleshooting Code
 
 Topics: Matplotlib (+ fstrings if time), Scripting
 
-**Googla Colab Links**
+**Google Colab Links**
 
 [Matplotlib](https://colab.research.google.com/github/nuitrcs/python_intermediate_july2025_evanston/blob/main/Day%202/matplotlib/matplotlib.ipynb)
 
@@ -47,6 +47,8 @@ Topics: Matplotlib (+ fstrings if time), Scripting
 
 Topics: Environments, fstrings, List Comprehension, Object Classes
 
+**Google Colab Links**
+
 [fstrings](https://colab.research.google.com/github/nuitrcs/python_intermediate_july2025_evanston/blob/main/Day%203/fstrings/fstrings.ipynb)
 
 [List Comprehension](https://colab.research.google.com/github/nuitrcs/python_intermediate_july2025_evanston/blob/main/Day%203/list_comprehensions/list.ipynb)
@@ -54,8 +56,6 @@ Topics: Environments, fstrings, List Comprehension, Object Classes
 [Pathlib](https://colab.research.google.com/github/nuitrcs/python_intermediate_july2025_evanston/blob/main/Day%203/pathlib/filepaths.ipynb)
 
 [Object Oriented Programming](https://colab.research.google.com/github/nuitrcs/python_intermediate_july2025_evanston/blob/main/Day%203/OOP/day4Lecture_OOP.ipynb)
-
-**Googla Colab Links**
 
 -----
 
